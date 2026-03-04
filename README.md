@@ -3,7 +3,7 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
+- Nome: Beatriz Carvalho Ferreira
 - Matricula:
 
 ## Tela de inspeção com navegador
