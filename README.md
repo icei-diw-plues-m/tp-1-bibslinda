@@ -11,21 +11,3 @@ Coloque aqui os seus dados
 
 <img width="556" height="942" alt="image" src="https://github.com/user-attachments/assets/b96b6ca8-dbb1-4133-8a3e-9092fb346b98" />
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>Hello World</h1>
-<p>I'm Beatriz</p>
-
-</body>
-</html> https://github.com/icei-diw-plues-m/tp-1-bibslinda.git
-
-
-## Orientações sobre Linguagem MarkDown
-
-Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto em Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
-
-![Brasão PUC Minas](images/brasao_puc.png)
