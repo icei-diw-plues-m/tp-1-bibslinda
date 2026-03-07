@@ -4,11 +4,12 @@
 ## Informações Gerais
 Coloque aqui os seus dados
 - Nome: Beatriz Carvalho Ferreira
-- Matricula:
+- Matricula: 926116
+
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img width="556" height="942" alt="image" src="https://github.com/user-attachments/assets/b96b6ca8-dbb1-4133-8a3e-9092fb346b98" />
 
 
 ## Orientações sobre Linguagem MarkDown
